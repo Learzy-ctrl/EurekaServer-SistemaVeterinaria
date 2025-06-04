@@ -1,0 +1,26 @@
+# Ignorar el output de Maven
+target/
+
+# Ignorar configuraciones locales y temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignorar config del IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar VS Code
+.vscode/
+
+# Ignorar sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos ocultos innecesarios
+.git
+.gitignore
+.mvn/
